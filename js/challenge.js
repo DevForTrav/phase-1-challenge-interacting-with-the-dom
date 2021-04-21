@@ -90,3 +90,5 @@ let intervalIncrementor = () => {counterElement.innerText = ++counter}
 
 
 window.setInterval(function() { intervalIncrementor () }, 1000);
+
+// 
